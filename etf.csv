@@ -1,0 +1,401 @@
+﻿symbol,etf_name
+SPY,SPDR S&P 500 ETF Trust
+IVV,iShares Core S&P 500 ETF
+VOO,Vanguard S&P 500 ETF
+VTI,Vanguard Total Stock Market ETF
+QQQ,Invesco QQQ Trust Series I
+VUG,Vanguard Growth ETF
+VTV,Vanguard Value ETF
+AGG,iShares Core U.S. Aggregate Bond ETF
+BND,Vanguard Total Bond Market ETF
+IWF,iShares Russell 1000 Growth ETF
+IJH,iShares Core S&P Mid-Cap ETF
+IJR,iShares Core S&P Small-Cap ETF
+VIG,Vanguard Dividend Appreciation ETF
+VGT,Vanguard Information Technology ETF
+IWM,iShares Russell 2000 ETF
+XLK,Technology Select Sector SPDR Fund
+VO,Vanguard Mid-Cap ETF
+TLT,iShares 20+ Year Treasury Bond ETF
+RSP,Invesco S&P 500® Equal Weight ETF
+ITOT,iShares Core S&P Total U.S. Stock Market ETF
+SCHD,Schwab US Dividend Equity ETF
+IWD,iShares Russell 1000 Value ETF
+VB,Vanguard Small Cap ETF
+VYM,Vanguard High Dividend Yield Index ETF
+IVW,iShares S&P 500 Growth ETF
+QUAL,iShares MSCI USA Quality Factor ETF
+XLF,Financial Select Sector SPDR Fund
+SCHX,Schwab U.S. Large-Cap ETF
+SPLG,SPDR Portfolio S&P 500 ETF
+XLV,Health Care Select Sector SPDR Fund
+MUB,iShares National Muni Bond ETF
+IWB,iShares Russell 1000 ETF
+XLE,Energy Select Sector SPDR Fund
+VV,Vanguard Large Cap ETF
+VNQ,Vanguard Real Estate ETF
+IWR,iShares Russell Midcap ETF
+JEPI,JPMorgan Equity Premium Income Fund
+IVE,iShares S&P 500 Value ETF
+DIA,SPDR Dow Jones Industrial Average ETF Trust
+BIL,SPDR Bloomberg 1-3 Month T-Bill ETF
+VTEB,Vanguard Tax-Exempt Bond ETF
+MBB,iShares MBS ETF
+BSV,Vanguard Short-Term Bond ETF
+LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF
+IEF,iShares 7-10 Year Treasury Bond ETF
+QQQM,Invesco NASDAQ 100 ETF
+SCHG,Schwab U.S. Large-Cap Growth ETF
+SCHB,Schwab U.S. Broad Market ETF
+VGIT,Vanguard Intermediate-Term Treasury ETF
+DFAC,Dimensional U.S. Core Equity 2 ETF
+IUSB,iShares Core Total USD Bond Market ETF
+VBR,Vanguard Small Cap Value ETF
+DGRO,iShares Core Dividend Growth ETF
+SPYG,SPDR Portfolio S&P 500 Growth ETF
+GOVT,iShares U.S. Treasury Bond ETF
+JPST,JPMorgan Ultra-Short Income ETF
+USMV,iShares MSCI USA Min Vol Factor ETF
+SGOV,iShares 0-3 Month Treasury Bond ETF
+COWZ,Pacer US Cash Cows 100 ETF
+SHY,iShares 1-3 Year Treasury Bond ETF
+SPYV,SPDR Portfolio S&P 500 Value ETF
+MDY,SPDR S&P Midcap 400 ETF Trust
+SMH,VanEck Semiconductor ETF
+TQQQ,ProShares UltraPro QQQ
+MGK,Vanguard Mega Cap Growth ETF
+VONG,Vanguard Russell 1000 Growth ETF
+SDY,SPDR S&P Dividend ETF
+IGSB,iShares 1-5 Year Investment Grade Corporate Bond ETF
+VXF,Vanguard Extended Market ETF
+VGSH,Vanguard Short-Term Treasury ETF
+DVY,iShares Select Dividend ETF
+XLI,Industrial Select Sector SPDR Fund
+BIV,Vanguard Intermediate-Term Bond ETF
+SHV,iShares Short Treasury Bond ETF
+IUSG,iShares Core S&P U.S. Growth ETF
+IUSV,iShares Core S&P U.S. Value ETF
+VHT,Vanguard Health Care ETF
+XLY,Consumer Discretionary Select Sector SPDR Fund
+IYW,iShares U.S. Technology ETF
+TIP,iShares TIPS Bond ETF
+VMBS,Vanguard Mortgage-Backed Securities ETF
+XLC,Communication Services Select Sector SPDR Fund
+SCHA,Schwab U.S. Small-Cap ETF
+VBK,Vanguard Small Cap Growth ETF
+VOE,Vanguard Mid-Cap Value ETF
+USFR,WisdomTree Floating Rate Treasury Fund
+XLU,Utilities Select Sector SPDR Fund
+USHY,iShares Broad USD High Yield Corporate Bond ETF
+XLP,Consumer Staples Select Sector SPDR Fund
+HYG,iShares iBoxx $ High Yield Corporate Bond ETF
+FNDX,Schwab Fundamental U.S. Large Company ETF
+JEPQ,JPMorgan NASDAQ Equity Premium Income ETF
+MOAT,VanEck Morningstar Wide Moat ETF
+IEI,iShares 3-7 Year Treasury Bond ETF
+SOXX,iShares Semiconductor ETF
+PFF,iShares Preferred & Income Securities ETF
+IWV,iShares Russell 3000 ETF
+VGLT,Vanguard Long-Term Treasury ETF
+IWP,iShares Russell Mid-Cap Growth ETF
+DGRW,WisdomTree US Quality Dividend Growth Fund
+VOT,Vanguard Mid-Cap Growth ETF
+IWS,iShares Russell Mid-Cap Value ETF
+OEF,iShares S&P 100 ETF
+AVUV,Avantis U.S. Small Cap Value ETF
+VCLT,Vanguard Long-Term Corporate Bond ETF
+ESGU,iShares ESG Aware MSCI USA ETF
+GSLC,TR Activebeta US Large Cap Equity ETF
+IWN,iShares Russell 2000 Value ETF
+VOOG,Vanguard S&P 500 Growth ETF
+NOBL,ProShares S&P 500 Dividend Aristocrats ETF
+USIG,iShares Broad USD Investment Grade Corporate Bond ETF
+RDVY,First Trust Rising Dividend Achievers ETF
+IWO,iShares Russell 2000 Growth ETF
+FTEC,Fidelity MSCI Information Technology Index ETF
+SCHV,Schwab U.S. Large-Cap Value ETF
+SCHP,Schwab U.S. TIPS ETF
+VTIP,Vanguard Short-Term Inflation-Protected Securities ETF
+SCHM,Schwab US Mid-Cap ETF
+SPSM,SPDR Portfolio S&P 600 Small Cap ETF
+SPTL,SPDR Portfolio Long Term Treasury ETF
+IWY,iShares Russell Top 200 Growth ETF
+DFUV,Dimensional US Marketwide Value ETF
+HDV,iShares Core High Dividend ETF
+DYNF,BlackRock U.S. Equity Factor Rotation ETF
+SPHQ,Invesco S&P 500® Quality ETF
+SCHO,Schwab Short-Term U.S. Treasury ETF
+SPMD,SPDR Portfolio S&P 400 Mid Cap ETF
+DFAT,Dimensional U.S. Targeted Value ETF
+CGDV,Capital Group Dividend Value ETF
+VTWO,Vanguard Russell 2000 ETF
+DFUS,Dimensional U.S. Equity ETF
+VFH,Vanguard Financials ETF
+SCHR,Schwab Intermediate-Term U.S. Treasury ETF
+MTUM,iShares MSCI USA Momentum Factor ETF
+IJK,iShares S&P Mid-Cap 400 Growth ETF
+FVD,First Trust Value Line Dividend Index Fund
+VONV,Vanguard Russell 1000 Value ETF
+CALF,Pacer US Small Cap Cash Cows 100 ETF
+ESGV,Vanguard ESG U.S. Stock ETF
+SPIB,SPDR Portfolio Intermediate Term Corporate Bond ETF
+FTCS,First Trust Capital Strength ETF
+SPTM,SPDR Portfolio S&P 1500 Composite Stock Market ETF
+FNDA,Schwab Fundamental U.S. Small Company ETF
+DFAS,Dimensional U.S. Small Cap ETF
+AMLP,Alerian MLP ETF
+SUB,iShares Short-Term National Muni Bond ETF
+SPAB,SPDR Portfolio Aggregate Bond ETF
+VDE,Vanguard Energy ETF
+TLH,iShares 10-20 Year Treasury Bond ETF
+MGV,Vanguard Mega Cap Value ETF
+SCHZ,Schwab U.S. Aggregate Bond ETF
+XBI,SPDR S&P Biotech ETF
+QYLD,Global X NASDAQ 100 Covered Call ETF
+JNK,SPDR Bloomberg High Yield Bond ETF
+PAVE,Global X US Infrastructure Development ETF
+STIP,iShares 0-5 Year TIPS Bond ETF
+IBB,iShares Biotechnology ETF
+SPSB,SPDR Portfolio Short Term Corporate Bond ETF
+IJJ,iShares S&P Mid-Cap 400 Value ETF
+XLRE,Real Estate Select Sector SPDR Fund
+SPLV,Invesco S&P 500® Low Volatility ETF
+VDC,Vanguard Consumer Staples ETF
+SCHI,Schwab 5-10 Year Corporate Bond ETF
+PRF,Invesco FTSE RAFI US 1000 ETF
+SCHH,Schwab US REIT ETF
+TFLO,iShares Treasury Floating Rate Bond ETF
+IJS,iShares S&P Small-Cap 600 Value ETF
+AVUS,Avantis U.S. Equity ETF
+VLUE,iShares MSCI USA Value Factor ETF
+CGGR,Capital Group Growth ETF
+CIBR,First Trust NASDAQ Cybersecurity ETF
+BKLN,Invesco Senior Loan ETF
+ONEQ,Fidelity Nasdaq Composite Index ETF
+ITA,iShares U.S. Aerospace & Defense ETF
+DUHP,Dimensional US High Profitability ETF
+TMF,Direxion Daily 20+ Year Treasury Bull 3X Shares
+SPYD,SPDR Portfolio S&P 500 High Dividend ETF
+IJT,iShares S&P Small-Cap 600 Growth ETF
+XLG,Invesco S&P 500® Top 50 ETF
+IGV,iShares Expanded Tech-Software Sector ETF
+SPTI,SPDR Portfolio Intermediate Term Treasury ETF
+VPU,Vanguard Utilities ETF
+DFAU,Dimensional US Core Equity Market ETF
+SHYG,iShares 0-5 Year High Yield Corporate Bond ETF
+FTSM,First Trust Enhanced Short Maturity ETF
+QLD,ProShares Ultra QQQ
+IOO,iShares Global 100 ETF
+MGC,Vanguard Mega Cap ETF
+BLV,Vanguard Long-Term Bond ETF
+SDVY,First Trust SMID Cap Rising Dividend Achievers ETF
+ARKK,ARK Innovation ETF
+FDN,First Trust Dow Jones Internet Index Fund
+XLB,Materials Select Sector SPDR Fund
+ICSH,BlackRock Ultra Short-Term Bond ETF
+SPMB,SPDR Portfolio Mortgage Backed Bond ETF
+VCR,Vanguard Consumer Discretionary ETF
+FPE,First Trust Preferred Securities & Income ETF
+SPHY,SPDR Portfolio High Yield Bond ETF
+VIS,Vanguard Industrials ETF
+GBIL,ACCESS TREASURY 0-1 YEAR ETF
+XMHQ,Invesco S&P MidCap Quality ETF
+FIXD,First Trust TCW Opportunistic Fixed Income ETF
+OMFL,Invesco Russell 1000 Dynamic Multifactor ETF
+SPTS,SPDR Portfolio Short Term Treasury ETF
+VOOV,Vanguard S&P 500 Value ETF
+PBUS,Invesco MSCI USA ETF
+BUFR,FT Vest Laddered Buffer ETF
+IHI,iShares U.S. Medical Devices ETF
+VONE,Vanguard Russell 1000 ETF
+IGM,iShares Expanded Tech Sector ETF
+SSO,ProShares Ultra S&P 500
+NVDL,GraniteShares 2x Long NVDA Daily ETF
+FNGU,MicroSectors FANG+™ Index 3X Leveraged ETN
+SJNK,SPDR Bloomberg Short Term High Yield Bond ETF
+BOND,PIMCO Active Bond Exchange-Traded Fund
+JQUA,JPMorgan U.S. Quality Factor ETF
+VUSB,Vanguard Ultra-Short Bond ETF
+DSI,iShares MSCI KLD 400 Social ETF
+JMBS,Janus Henderson Mortgage-Backed Securities ETF
+IYR,iShares U.S. Real Estate ETF
+SPGP,Invesco S&P 500 GARP ETF
+SPXL,Direxion Daily S&P 500 Bull 3X Shares
+PGX,Invesco Preferred ETF
+LMBS,First Trust Low Duration Opportunities ETF
+IXJ,iShares Global Healthcare ETF
+AVLV,Avantis U.S. Large Cap Value ETF
+DLN,WisdomTree U.S. LargeCap Dividend Fund
+FDL,First Trust Morningstar Dividend Leaders Index Fund
+ISTB,iShares Core 1-5 Year USD Bond ETF
+TBIL,US Treasury 3 Month Bill ETF
+VOX,Vanguard Communication Services ETF
+BSCP,Invesco BulletShares 2025 Corporate Bond ETF
+REET,iShares Global REIT ETF
+EDV,Vanguard Extended Duration Treasury ETF
+BOXX,Alpha Architect 1-3 Month Box ETF
+SLYV,SPDR S&P 600 Small Cap Value ETF
+JHMM,John Hancock Multifactor Mid Cap ETF
+QTEC,First Trust NASDAQ-100 Technology Sector Index Fund
+PPA,Invesco Aerospace & Defense ETF
+SPHD,Invesco S&P 500® High Dividend Low Volatility ETF
+BSCQ,Invesco BulletShares 2026 Corporate Bond ETF
+UPRO,ProShares UltraPro S&P500
+SCHK,Schwab 1000 Index ETF
+DON,WisdomTree U.S. MidCap Dividend Fund
+SHM,SPDR Nuveen Bloomberg Short Term Municipal Bond ETF
+FEZ,SPDR EURO STOXX 50 ETF
+RWL,Invesco S&P 500 Revenue ETF
+DFSV,Dimensional US Small Cap Value ETF
+SUSA,iShares MSCI USA ESG Select ETF
+BBUS,JPMorgan BetaBuilders U.S. Equity ETF
+PTLC,Pacer Trendpilot US Large Cap ETF
+VAW,Vanguard Materials ETF
+PZA,Invesco National AMT-Free Municipal Bond ETF
+VIOO,Vanguard S&P Small-Cap 600 ETF
+SKYY,First Trust Cloud Computing ETF
+BSCO,Invesco BulletShares 2024 Corporate Bond ETF
+IBDR,iShares iBonds Dec 2026 Term Corporate ETF
+XYLD,Global X S&P 500 Covered Call ETF
+XOP,SPDR S&P Oil & Gas Exploration & Production ETF
+IBDQ,iShares iBonds Dec 2025 Term Corporate ETF
+USRT,iShares Core U.S. REIT ETF
+TDIV,First Trust NASDAQ Technology Dividend Index Fund
+NUGO,Nuveen Growth Opportunities ETF
+HYMB,SPDR Nuveen Bloomberg High Yield Municipal Bond ETF
+MDYG,SPDR S&P 400 Mid Cap Growth ETF
+EMLP,First Trust North American Energy Infrastructure Fund
+IBDS,iShares iBonds Dec 2027 Term Corporate ETF
+TNA,Direxion Daily Small Cap Bull 3X Shares
+IFRA,iShares U.S. Infrastructure ETF
+MDYV,SPDR S&P 400 Mid Cap Value ETF
+IBTE,iShares iBonds Dec 2024 Term Treasury ETF
+BKLC,BNY Mellon US Large Cap Core Equity ETF
+IGLB,iShares 10+ Year Investment Grade Corporate Bond ETF
+FAS,Direxion Daily Financial Bull 3X Shares
+VTHR,Vanguard Russell 3000 ETF
+JGRO,JPMorgan Active Growth ETF
+PRFZ,Invesco FTSE RAFI US 1500 Small-Mid ETF
+IBDP,iShares iBonds Dec 2024 Term Corporate ETF
+SQQQ,ProShares UltraPro Short QQQ
+USMC,Principal U.S. Mega-Cap ETF
+PFFD,Global X U.S. Preferred ETF
+DFLV,Dimensional US Large Cap Value ETF
+GSUS,Goldman Sachs MarketBeta U.S. Equity ETF
+IBTF,iShares iBonds Dec 2025 Term Treasury ETF
+IWX,iShares Russell Top 200 Value ETF
+XAR,SPDR S&P Aerospace & Defense ETF
+SPMO,Invesco S&P 500® Momentum ETF
+XHB,SPDR S&P Homebuilders ETF
+PHO,Invesco Water Resources ETF
+FTSL,First Trust Senior Loan Fund
+ILCG,iShares Morningstar Growth ETF
+ICF,iShares Cohen & Steers REIT ETF
+UITB,VictoryShares Core Intermediate Bond ETF
+VNLA,Janus Henderson Short Duration Income ETF
+IVOO,Vanguard S&P Mid-Cap 400 ETF
+BSCR,Invesco BulletShares 2027 Corporate Bond ETF
+AOR,iShares Core Growth Allocation ETF
+SLQD,iShares 0-5 Year Investment Grade Corporate Bond ETF
+IBDT,iShares iBonds Dec 2028 Term Corporate ETF
+LRGF,iShares US Equity Factor ETF
+IMCG,iShares Morningstar Mid-Cap Growth ETF
+DES,WisdomTree U.S. SmallCap Dividend Fund
+PABU,iShares Paris-Aligned Climate MSCI USA ETF
+DSTL,Distillate US Fundamental Stability & Value ETF
+IYY,iShares Dow Jones U.S. ETF
+KBE,SPDR S&P Bank ETF
+RPV,Invesco S&P 500® Pure Value ETF
+EUFN,iShares MSCI Europe Financials ETF
+KOMP,SPDR S&P Kensho New Economies Composite ETF
+FMB,First Trust Managed Municipal ETF
+ICVT,iShares Convertible Bond ETF
+QDF,FlexShares Quality Dividend Index Fund
+QQEW,First Trust Nasdaq-100 Equal Weighted Index Fund
+BTC,Grayscale Bitcoin Mini Trust (BTC)
+FXR,First Trust Industrials/Producer Durables AlphaDEX Fund
+BSCS,Invesco BulletShares 2028 Corporate Bond ETF
+MLPX,Global X MLP & Energy Infrastructure ETF
+BKAG,BNY Mellon Core Bond ETF
+ITM,VanEck Intermediate Muni ETF
+FENY,Fidelity MSCI Energy Index ETF
+PFXF,VanEck Preferred Securities ex Financials ETF
+SPYI,NEOS S&P 500 High Income ETF
+FIW,First Trust Water ETF
+NULV,Nuveen ESG Large-Cap Value ETF
+TBLL,Invesco Short Term Treasury ETF
+SPYX,SPDR S&P 500 Fossil Fuel Reserves Free ETF
+SECT,Main Sector Rotation ETF
+ESML,iShares ESG Aware MSCI USA Small-Cap ETF
+OIH,VanEck Oil Services ETF
+FALN,iShares Fallen Angels USD Bond ETF
+HTRB,Hartford Total Return Bond ETF
+IEV,iShares Europe ETF
+FNCL,Fidelity MSCI Financials Index ETF
+TDTT,FlexShares iBoxx 3-Year Target Duration TIPS Index Fund
+BBMC,JPMorgan BetaBuilders U.S. Mid Cap Equity ETF
+VRP,Invesco Variable Rate Preferred ETF
+GUSA,Goldman Sachs MarketBeta U.S. 1000 Equity ETF
+HACK,Amplify Cybersecurity ETF
+KBWB,Invesco KBW Bank ETF
+IBDU,iShares iBonds Dec 2029 Term Corporate ETF
+RWR,SPDR Dow Jones REIT ETF
+JMUB,JPMorgan Municipal ETF
+TILT,FlexShares Morningstar US Market Factor Tilt Index Fund
+ZROZ,PIMCO 25+ Year Zero Coupon US Treasury Index Exchange-Traded Fund
+FDIS,Fidelity MSCI Consumer Discretionary Index ETF
+GTO,Invesco Total Return Bond ETF
+MUNI,PIMCO Intermediate Municipal Bond Active Exchange-Traded Fund
+RWJ,Invesco S&P SmallCap 600 Revenue ETF
+XME,SPDR S&P Metals & Mining ETF
+REGL,ProShares S&P MidCap 400 Dividend Aristocrats ETF
+RPG,Invesco S&P 500® Pure Growth ETF
+MLPA,Global X MLP ETF
+EFIV,SPDR S&P 500 ESG ETF
+AIRR,First Trust RBA American Industrial Renaissance ETF
+TSLL,Direxion Daily TSLA Bull 2X Shares
+JAVA,JPMorgan Active Value ETF
+IYJ,iShares U.S. Industrials ETF
+IGEB,iShares Investment Grade Systematic Bond ETF
+FTLS,First Trust Long/Short Equity ETF
+IWL,iShares Russell Top 200 ETF
+HYLS,First Trust Tactical High Yield ETF
+FXD,First Trust Consumer Discretionary AlphaDEX Fund
+HYGV,FlexShares High Yield Value-Scored Bond Index Fund
+NULG,Nuveen ESG Large-Cap Growth ETF
+IYG,iShares U.S. Financial Services ETF
+FTXL,First Trust Nasdaq Semiconductor ETF
+HELO,JPMorgan Hedged Equity Laddered Overlay ETF
+RYLD,Global X Russell 2000 Covered Call ETF
+AOM,iShares Core Moderate Allocation ETF
+BBAG,JPMorgan BetaBuilders U.S. Aggregate Bond ETF
+QLTA,iShares Aaa – A Rated Corporate Bond ETF
+IDU,iShares U.S. Utilities ETF
+SNPE,Xtrackers S&P 500 ESG ETF
+VIOV,Vanguard S&P Small-Cap 600 Value ETF
+QUS,SPDR MSCI USA StrategicFactors ETF
+XSD,SPDR S&P Semiconductor ETF
+ARKG,ARK Genomic Revolution ETF
+TIPX,SPDR Bloomberg 1-10 Year TIPS ETF
+JMEE,JPMorgan Market Expansion Enhanced Equity ETF
+DFNM,Dimensional National Municipal Bond ETF
+FUTY,Fidelity MSCI Utilities Index ETF
+QQQE,Direxion NASDAQ-100 Equal Weighted Index Shares
+IBTG,iShares iBonds Dec 2026 Term Treasury ETF
+ARKW,ARK Next Generation Internet ETF
+IAI,iShares U.S. Broker-Dealers & Securities Exchanges ETF
+FXL,First Trust Technology AlphaDEX Fund
+BBHY,JPMorgan BetaBuilders USD High Yield Corporate Bond ETF
+EWL,iShares MSCI Switzerland ETF
+IYK,iShares U.S. Consumer Staples ETF
+FLQL,Franklin U.S. Large Cap Multifactor Index ETF
+DTD,WisdomTree U.S. Total Dividend Fund
+FXH,First Trust Health Care AlphaDEX Fund
+AVSC,Avantis U.S Small Cap Equity ETF
+NUSC,Nuveen ESG Small-Cap ETF
+PTNQ,Pacer Trendpilot 100 ETF
+IYE,iShares U.S. Energy ETF
+SMLF,iShares U.S. Small‑Cap Equity Factor ETF
+LCTU,BlackRock U.S. Carbon Transition Readiness ETF
+HYS,PIMCO 0-5 Year High Yield Corporate Bond Index Exchange-Traded Fund
+FIDU,Fidelity MSCI Industrial Index ETF
